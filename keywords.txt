@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map RGBLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGBLED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setRGB	KEYWORD2
+setRed	KEYWORD2
+setGreen	KEYWORD2
+setBlue	KEYWORD2
+getRed	KEYWORD2
+getGreen	KEYWORD2
+getBlue	KEYWORD2
+overrideRGB	KEYWORD2
+overrideRed	KEYWORD2
+overrideGreen	KEYWORD2
+overrideBlue	KEYWORD2
+overrideWhite	KEYWORD2
+overrideBlack	KEYWORD2
+stopOverride	KEYWORD2
+disableAutoUpdate	KEYWORD2
+enableAutoUpdate	KEYWORD2
+isAutoUpdate	KEYWORD2
+update	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
