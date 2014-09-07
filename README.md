@@ -3,7 +3,7 @@
 
 An Arduino library for controlling the colour and brightness of a red, green and blue LED.
 
-This library is created to simplify the steering of a colorful LED. The light emitted from the LED is set through the three color components, i.e. red, green and blue. The brightnesses of the three separate color channels of the LED are changed using PWM. The library itself uses `analogWrite(...)` to change the PWM pulse width. 
+This library is created to simplify the steering of a colorful LED. The light emitted from the LED is set through the three color components, i.e. red, green and blue. The brightnesses of the three separate color channels of the LED are changed using PWM. The library itself uses `cpp analogWrite(...)` to change the PWM pulse width. 
 
 ###1. LICENSE
 
