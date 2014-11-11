@@ -190,7 +190,7 @@
 
 class RGBLED {
 public:
-    RGBLED(const int redPin, const int greenPin, const int bluePin);
+    explicit RGBLED(const int redPin, const int greenPin, const int bluePin);
     void setRGB(const float redValue, const float greenValue, const float blueValue);
     void setRed(const float redValue);
     void setGreen(const float greenValue);

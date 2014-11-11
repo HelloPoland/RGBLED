@@ -108,7 +108,7 @@ brightenBlue(float amount);
 darken(float amount);
 darkenRed(float amount);
 darkenGreen(float amount);
-darkenBlue(flaot amount);
+darkenBlue(float amount);
 ```
 
 The input parameter should be in the range of 0.0 to 1.0. The resulting color value is calculated to be between 0.0 and 1.0, so you can brighten the value even if it has the full brightness already.
