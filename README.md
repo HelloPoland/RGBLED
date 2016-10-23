@@ -1,6 +1,6 @@
 # RGBLED
 
-Arduino library for controlling the colour and brightness of RGB LED.
+Library for controlling RGB LED for ARDUINO/Genuino. Written in C++.
 
 Tags: Arduino RGB LED library color brightness
 
