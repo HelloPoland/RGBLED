@@ -1,4 +1,4 @@
-# ARDUINO-RGB-LED
+# RGBLED
 
 Library for controlling RGB LED for ARDUINO/Genuino. Written in C++.
 
